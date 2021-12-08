@@ -1,0 +1,22 @@
+.carousel-container{
+    background-image: url(../../Images/back.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
+    height: 500px;
+    width: 100%;
+    display: flex;
+    flex: 1;
+    margin-top: 10px;
+}
+.carousel-card{
+    height: 200px;
+    width: 400px;
+    padding-top: 80px;
+    text-align: center;
+    background: #52C0F5;
+    color: #FFF;
+    border-Radius: 10px;
+    box-sizing: border-box;
+}
